@@ -1,0 +1,4 @@
+# _config.yml
+format: jb-book
+execute:
+  execute_notebooks: "off"
